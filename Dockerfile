@@ -1,4 +1,4 @@
-FROM node:9.5-alpine
+FROM node:13.14.0-alpine3.11
 
 EXPOSE 8000
 
